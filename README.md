@@ -1,9 +1,9 @@
-# cn-dlnd-issue-reports
+# cn-cv-issue-reports
 # 如何提供反馈（Issue）
 
 ### 创建Issue
 
-打开仓库链接：https://github.com/udacity/cn-dlnd-issue-reports/issues ，选择 `Issues` 面板新建 `issue` ：![new issue](beta-test/new-issue.png)
+打开仓库链接：https://github.com/udacity/cn-cv-issue-report ，选择 `Issues` 面板新建 `issue` ：![new issue](beta-test/new-issue.png)
 
 
 
